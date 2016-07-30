@@ -1,0 +1,14 @@
+layout_spectrum: 0.49239930091425776
+typography_spectrum: 0.9716884202789515
+color:
+  brandStrength: 0.5202221211511642
+  lightness: 0.795977984322235
+  saturation: 0.5675236156675965
+  rhythmicContrast: 0.6071333126164973
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Mystor

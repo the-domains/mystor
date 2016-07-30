@@ -1,4 +1,3 @@
-layout_spectrum: 0.49239930091425776
 typography_spectrum: 0.9716884202789515
 color:
   brandStrength: 0.5202221211511642
@@ -11,5 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.49239930091425776
 name: Mystor
+title: Always Handy
 description: We get the job done!

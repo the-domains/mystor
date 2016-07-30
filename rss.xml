@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Always Handy]]></title>
+        <description><![CDATA[Always Handy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jul 2016 04:53:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ultimate Handyman]]></title>
+            <description><![CDATA[<article><h1>Ultimate Handyman</h1><p>The Ultimate DIY channel featuring a wide variety of instructional "how to videos" as well as some of the best tool review videos available. We only review tools that are up to the job so you will never see us reviewing any of the cheaper (throw away) tools.</p></article>]]></description>
+            <link>https://www.youtube.com/user/ultimatehandyman</link>
+            <guid isPermaLink="false">90f07718-b5bd-4097-9bf0-01f8b481b915</guid>
+            <pubDate>Sat, 30 Jul 2016 04:52:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
